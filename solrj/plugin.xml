@@ -1,0 +1,12 @@
+<plugin name='solrj' version='0.1' griffonVersion='0.9.3 &gt; *' jdk='1.5'>
+  <author>Mario Garcia</author>
+  <title>Solr support for Griffon</title>
+  <description>Solr support for Griffon</description>
+  <documentation>http://griffon.codehaus.org/Solrj+Plugin</documentation>
+  <license>Apache 2.0</license>
+  <toolkits>swing</toolkits>
+  <resources>
+    <resource>BuildConfig</resource>
+  </resources>
+  <dependencies />
+</plugin>
