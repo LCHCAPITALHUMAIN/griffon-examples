@@ -1,0 +1,1 @@
+This project is just a place where my Griffon example applications can be centralized.
